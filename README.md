@@ -1,4 +1,6 @@
 # hp-elitedesk-800-g2-mini
+![monterey](https://user-images.githubusercontent.com/86233/180646899-69fb4f74-6e38-4fda-a39d-e8fbb5fbd8d9.png)
+
 
 ## Infos:
 This repo contains files needed to "Hackintosh" your HP Elitedesk 800 G2 Mini:
